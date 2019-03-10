@@ -2,13 +2,13 @@
  * Bluebasic Facebonk
  * Scheme for Hubzilla
  * Version 0.1
- * Maintained by BOET@nexxt.social 
+ * Maintained by BOET@nexxt.social
 
 
 /* generals */
 
 body {
-    background-color: #e9e9e9; 
+    background-color: #e9e9e9;
     color: #545454;
 }
 
@@ -31,7 +31,7 @@ a, .fakelink {
 }
 
 .bg-dark, #menu_logo, .widget h3, .bg-primary , .wall-item-title, .wall-item-title.h3 a {
-    background-color: #4267a8 !important;
+    background-color: linear-gradient(45deg,rgba(0, 4, 40, 0.9),rgba(0, 78, 146, 0.9)) !important;
     color: #fff !important;
 }
 
