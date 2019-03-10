@@ -1,0 +1,60 @@
+/**
+ * Bluebasic Facebonk
+ * Scheme for Hubzilla
+ * Version 0.1
+ * Maintained by BOET@nexxt.social 
+
+
+/* generals */
+
+body {
+    background-color: #e9e9e9; 
+    color: #545454;
+}
+
+.navbar-dark .navbar-nav .nav-link, .section-title-wrapper, .usermenu i {
+    color: rgba(255, 255, 255, 0.9) !important;
+}
+
+
+
+.widget {
+    background-color: rgba(254,254,254,.9);
+ }
+
+.wall-item-content-wrapper {
+    background-color: #ffffff;
+}
+
+a, .fakelink {
+    color: #4267a8 !important;
+}
+
+.bg-dark, #menu_logo, .widget h3, .bg-primary , .wall-item-title, .wall-item-title.h3 a {
+    background-color: #4267a8 !important;
+    color: #fff !important;
+}
+
+.section-title-wrapper {
+    color: $font_colour !important;
+    background: #fff;
+}
+
+.section-title-wrapper a {
+        color: $nav_colour !important;
+}
+
+.badge {
+    display: inline-block;
+    padding: .25em .4em;
+        padding-right: 0.4em;
+        padding-left: 0.4em;
+    font-weight: 400 !important;
+    line-height: 1 !important;
+    text-align: center !important;
+    white-space: nowrap !important;
+    vertical-align: baseline !important;
+    border-radius: 0 !important;
+    font-size: 0.9rem !important;
+
+}

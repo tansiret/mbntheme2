@@ -1,0 +1,68 @@
+/**
+ * Bluebasic default
+ * Scheme for Hubzilla
+ * Version 0.1
+ * Maintained by BOET@nexxt.social 
+
+
+/* generals */
+
+body {
+    background-color: $bgcolour; 
+}
+
+.navbar-dark .navbar-nav .nav-link, .usermenu i {
+    color: rgba(255, 255, 255, 0.9) !important;
+}
+
+.widget {
+    background-color: rgba(254,254,254,.9);
+ }
+
+.wall-item-content-wrapper {
+    background-color: #ffffff;
+}
+
+.bg-primary {
+    background-color: $nav_bg !important;
+}
+
+.rounded-top, .wall-item-content-wrapper {
+    border-top-left-radius: 0px !important;
+    border-top-right-radius: 0px !important;
+}
+
+.dropdown-item.active {
+    color: #fff !important;
+}
+
+.wall-item-body a {
+    color: #1b1935 !important; 
+    padding-left: 0px;
+    text-decoration: none !important;
+}
+.wall-item-body a:hover {
+    color: #000 !important; 
+    padding-left: 0px;
+    text-decoration: underline !important;
+}
+
+.rounded-top, .wall-item-content-wrapper {
+    border-top-left-radius: 0px !important;
+    border-top-right-radius: 0px !important;
+}
+
+.badge {
+    display: inline-block;
+    padding: .25em .4em;
+        padding-right: 0.4em;
+        padding-left: 0.4em;
+    font-weight: 400 !important;
+    line-height: 1 !important;
+    text-align: center !important;
+    white-space: nowrap !important;
+    vertical-align: baseline !important;
+    border-radius: 0 !important;
+    font-size: 0.9rem !important;
+
+}
