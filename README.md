@@ -1,2 +1,2 @@
-# mbntheme2
-The second version of MBNetwork's theme.
+# MBNetwork Theme 2
+The second edition of MBNetwork's theme. 
