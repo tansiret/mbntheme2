@@ -18,7 +18,7 @@
 
       <li class="nav-item user_details">
         <div style="display: block; padding: .5rem 1rem;">
-            <a href="channel/{{$channel}}"><i style="font-size: 18px;margin: 0 -3px 0px -3px;" class="fa fa-fw fa-home"></i> Home</a>&nbsp&nbsp(<a href="https://nexxt.social/channel/boet?f=&cat=Deutsch">Deutsch</a>&nbsp|&nbsp<a href="https://nexxt.social/channel/boet?f=&cat=English">English</a>)
+            <a href="https://makerbirligi.net/"><i style="font-size: 18px;margin: 0 -3px 0px -3px;" class="fa fa-fw fa-home"></i> Home</a>&nbsp&nbsp(<a href="https://nexxt.social/channel/boet?f=&cat=Deutsch">Deutsch</a>&nbsp|&nbsp<a href="https://nexxt.social/channel/boet?f=&cat=English">English</a>)
             </div>
       </li>
 
